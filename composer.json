@@ -1,0 +1,19 @@
+{
+    "name": "darkcoder/greetr",
+    "description": "A simple message greetr",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "DarkcoderSe",
+            "email": "kashifs294@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-4": {
+            "Darkcoderse\\Greetr\\": "packages/darkcoderse/greetr/src/"
+        }
+    },
+    "require": {}
+}
